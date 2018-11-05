@@ -42,7 +42,7 @@ source activate yourenvname
 
 * **Karina Bekbayeva** - *Worked with kNN, Random Forest, Naive Bayes, ANN* - [karinabk](https://github.com/karinabk)
 
-* **Elzhan Zeinulla** - *Worked with Logistic Regressions, kNN, SVM. Did an analysis using ROC and CAP * - [zelzhan](https://github.com/zelzhan)
+* **Elzhan Zeinulla** - *Worked with Logistic Regressions, kNN, SVM. Did an analysis using ROC and CAP* - [zelzhan](https://github.com/zelzhan)
 
 ## License
 
