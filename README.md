@@ -1,5 +1,6 @@
 # Machine-Learning
-Research paper. Practice in Machine Learning ( Deep Learning), implementations of algorithms.
+Published esearch paper can be found [here](https://github.com/karinabk/Machine-Learning/blob/master/paper.pdf). Practice in Machine Learning ( Deep Learning), implementations of algorithms.
+
 ## Tools
 
 * Vizualizatoin of CNN - [Digit recognition](http://scs.ryerson.ca/~aharley/vis/conv/flat.html)
@@ -39,9 +40,9 @@ source activate yourenvname
 
 ## Authors
 
-* **Karina Bekbayeva** - ** - [karinabk](https://github.com/karinabk)
+* **Karina Bekbayeva** - *Worked with kNN, Random Forest, Naive Bayes, ANN* - [karinabk](https://github.com/karinabk)
 
-* **Elzhan Zeinulla** - ** - [zelzhan](https://github.com/zelzhan)
+* **Elzhan Zeinulla** - *Worked with Logistic Regressions, kNN, SVM. Did an analysis using ROC and CAP * - [zelzhan](https://github.com/zelzhan)
 
 ## License
 
